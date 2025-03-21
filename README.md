@@ -13,7 +13,9 @@ This is a personal learning project where I implement and experiment with concep
 
 - `./DataClass.ipynb` - Chapter 5: Data Class Builders
 - `./FunctionsAsObjects.ipynb` - Part II. Functions as Objects (Chapter 7 to 9)
-- `./ControlFlow.ipynb` - Part IV. Control Flow (Chapter 17 to 21, W.I.P)
+- `./ControlFlow.ipynb` - Part IV. Control Flow (Chapter 17 to 19)
+- `./ConcurrentExecutors.ipynb` - Chapter 20: Concurrent Executors
+- `./Asyncio.ipynb` - Chapter 21: Asynchronous Programming
 
 ## Disclaimer
 
